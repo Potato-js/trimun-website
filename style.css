@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  color: #FFF5EE;
+  color: #fff5ee;
   background: linear-gradient(135deg, #4a634d, #cfc8bf);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
